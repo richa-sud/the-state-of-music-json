@@ -2,41 +2,41 @@
   {
     "state_abr": "AK",
     "genre": "classical_jazz",
-    "value": 0.48,
+    "value": 0.48
   },
   {
     "state_abr": "AK",
     "genre": "rock_metal",
-    "value": 0.42,
+    "value": 0.42
   },
   {
     "state_abr": "AK",
     "genre": "country_folk",
-    "value": 0.93,
+    "value": 0.93
   },
   {
     "state_abr": "AK",
     "genre": "pop",
-    "value": 0.39,
+    "value": 0.39
   },
   {
     "state_abr": "AK",
     "genre": "hiphop",
-    "value": 0.08,
+    "value": 0.08
   },
   {
     "state_abr": "AK",
     "genre": "rnb",
-    "value": 0.53,
+    "value": 0.53
   },
   {
     "state_abr": "AK",
     "genre": "electronic_dane",
-    "value": 0.11,
+    "value": 0.11
   },
   {
     "state_abr": "AK",
-    "genre": "indie",
+    "genre": "indie"
     "value": 0.47
   }
 ]
