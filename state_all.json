@@ -3,7 +3,7 @@
     "state_abr": "AK",
     "genre": "classical_jazz",
     "value": 0.48,
-  }
+  },
   {
     "state_abr": "AK",
     "genre": "rock_metal",
@@ -38,5 +38,5 @@
     "state_abr": "AK",
     "genre": "indie",
     "value": 0.47
-  },
+  }
 ]
