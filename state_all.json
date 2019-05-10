@@ -1,42 +1,40 @@
-[
-  {
-    "state_abr": "WY",
-    "genre": "pop",
-    "value": 0.68
-  },
-  {
-    "state_abr": "WY",
-    "genre": "rock_metal",
-    "value": 0.41
-  },
-  {
-    "state_abr": "WY",
-    "genre": "indie",
-    "value": 0.29
-  },
-  {
-    "state_abr": "WY",
-    "genre": "hiphop",
-    "value": 0.22
-  },
-  {
-    "state_abr": "WY",
-    "genre": "rnb",
-    "value": 0.57
-  },
-  {
-    "state_abr": "WY",
-    "genre": "classical_jazz",
-    "value": 0.1
-  },
-  {
-    "state_abr": "WY",
-    "genre": "electronic_dance",
-    "value": 0.86
-  },
-  {
-    "state_abr": "WY",
-    "genre": "country_folk",
-    "value": 0.52
-  }
-]
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "id": "01",
+    "abbr": "AL",
+    "properties": [{
+        "genre": "pop",
+        "value": 0.68
+      },
+      {
+        "genre": "rock_metal",
+        "value": 0.41
+      },
+      {
+        "genre": "indie",
+        "value": 0.29
+      },
+      {
+        "genre": "hiphop",
+        "value": 0.22
+      },
+      {
+        "genre": "rnb",
+        "value": 0.57
+      },
+      {
+        "genre": "classical_jazz",
+        "value": 0.1
+      },
+      {
+        "genre": "electronic_dance",
+        "value": 0.86
+      },
+      {
+        "genre": "country_folk",
+        "value": 0.52
+      }
+    ]
+  }]
+}
